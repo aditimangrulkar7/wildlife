@@ -72,6 +72,8 @@ nav ul li:hover {
  background-position: left;
  background-repeat: no-repeat;
  background-origin: cover;
+ background-size: cover;
+ justify-content: start;
   height: 100vh;
   display: grid;
   place-items: center;
@@ -94,6 +96,9 @@ p{
   text-align: start;
 }
 .container{
+ 
+}
+.PHILOSOPHY_section{
   background-color: black;
   color: white;
 }
