@@ -101,4 +101,7 @@ p{
 .PHILOSOPHY_section{
   background-color: black;
   color: white;
+  border-image-width: 20px;
+  
+  
 }
